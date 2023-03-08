@@ -175,7 +175,9 @@ nav ul li a{
     height: 50px;
     font-size: 30px;
     line-height: 50px;
-    border-radius:8px; ;
+    border-radius:8px;
+    color: #009688;
+    border: 1px solid #009688;
 }
   
 
