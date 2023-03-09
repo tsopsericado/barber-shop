@@ -149,9 +149,6 @@ nav ul li a{
     align-items: center;
     text-align: center;
 }
-.features{
-    flex-basis: 50%;
-}
 .feature-img{
     flex-basis: 50%;
     margin: auto;
@@ -179,9 +176,23 @@ nav ul li a{
     color: #009688;
     border: 1px solid #009688;
 }
-  
+.feature-text{
+    padding: 0 20px;
+    text-align: initial;
+}
+@media screen and (max-width:770px){
+.title-text h1{
+    font-size: 35px;
+}
+.features{
+    flex-basis: 100%;
+}
+.feature-img{
+    flex-basis: 100%;
+}
+.feature-img img{
+    width: 100%;
+}
 
-
-  
  
       
