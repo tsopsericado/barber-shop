@@ -4,7 +4,7 @@
     font-family:'poppins', sans-serif;
 }
     #banner{
-      background-color: antiquewhite;
+      background:rgb(35, 70, 35);
         background-size: cover;
         background-position: center;
         height: 100vh;
